@@ -27,6 +27,8 @@ const App = () => {
       }
       }>
         <Text>Open Form</Text>
+        <Text>only test</Text>
+
       </Pressable>
     </View>
   );
