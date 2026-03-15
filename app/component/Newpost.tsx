@@ -6,7 +6,7 @@ const Newpost = () => {
         <View>
             <Text>Newpost</Text>
             <Text>this is new branch post </Text>
-            <Text>Newpost</Text>
+            <Text>my name is kuldeep</Text>
             <Text>Newpost</Text>
         </View>
     )
